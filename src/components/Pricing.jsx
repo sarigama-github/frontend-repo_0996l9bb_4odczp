@@ -19,7 +19,7 @@ export default function Pricing() {
             </div>
             <div className="text-center">
               <div className="text-4xl font-extrabold tracking-tight">
-                <span className="bg-gradient-to-r from-cyan-300 via-sky-400 to-blue-500 bg-clip-text text-transparent">$39</span>
+                <span className="bg-gradient-to-r from-cyan-300 via-sky-400 to-blue-500 bg-clip-text text-transparent">$37</span>
               </div>
               <p className="text-xs text-cyan-100/60">One-time payment</p>
             </div>
